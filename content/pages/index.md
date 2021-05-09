@@ -12,11 +12,15 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I grew up in Co. Cavan, and studied Business in Dublin City University.
+      After graduating I followed the footsteps of my father and went into the
+      electrical appliances industry, starting in July 2014 as a marketing
+      assistant with [KAL](http://www.kal.ie/). Having spent two years with KAL,
+      and then a further two with [Whirlpool](https://www.whirlpool.ie/) as a
+      category manager, despite my relative career success I was deeply
+      unsatisfied. I found no joy in my work and my future career path didn't
+      fill me with excitement. Something needed to change. 
     actions:
       - label: Contact Me
         url: /contact
