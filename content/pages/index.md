@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Mark O''Reilly.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I'm a software developer based in Dublin Ireland currently working with
+      [Meg Support Tools](megit.com). My two passions are running and sea
+      swimming, although that doesn't mean I'm any good at either!
   - section_id: about
     type: section_content
     title: About
