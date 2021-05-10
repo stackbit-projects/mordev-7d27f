@@ -7,7 +7,7 @@ sections:
     section_id: specr
     image_alt: lorem-ipsum
     content: >
-      ## Specr
+      ## 2021 - side project
 
 
       A market analysis tool for ecommerce brands. I used Scrapy as a data
@@ -23,6 +23,9 @@ sections:
       The project is configured to be deployed to Azure Container Instances
       (deployment yaml included), but there's also a production ready Docker
       Compose image.
+
+
+      <https://github.com/oreilm49/specr>
     actions: []
     type: section_content
 seo:
