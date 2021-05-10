@@ -6,17 +6,23 @@ sections:
   - title: Specr
     section_id: specr
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Specr
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      A market analysis tool for ecommerce brands. I used Scrapy as a data
+      collection tool, and Django as a CMS for the web scraper (selectors,
+      websites, start urls), but also as a CMS for the frontend features.
 
 
-      - Lorem ipsum
+      I initially deployed the web scraper to run via Celery but ran into issues
+      with the Twisted Reactor, so I repackaged the scraper so it could be
+      deployed to it's own container via scrapyd.
 
-      - dolor sit amet
+
+      The project is configured to be deployed to Azure Container Instances
+      (deployment yaml included), but there's also a production ready Docker
+      Compose image.
     actions: []
     type: section_content
 seo:
