@@ -7,7 +7,7 @@ sections:
     section_id: specr
     image_alt: lorem-ipsum
     content: >
-      ## 2021 - side project
+      ## Specr
 
 
       A market analysis tool for ecommerce brands. I used Scrapy as a data
