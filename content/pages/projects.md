@@ -4,7 +4,7 @@ hide_title: true
 excerpt: projects
 sections:
   - title: Specr
-    section_id: projects
+    section_id: specr
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
