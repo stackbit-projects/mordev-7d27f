@@ -28,7 +28,7 @@ sections:
       <https://github.com/oreilm49/specr>
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Ekco - Microsoft 365 Backup Portal
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
