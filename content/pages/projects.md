@@ -3,7 +3,7 @@ title: Projects
 hide_title: true
 excerpt: projects
 sections:
-  - title: Specr
+  - title: 2021 - side project
     section_id: specr
     image_alt: lorem-ipsum
     content: >
