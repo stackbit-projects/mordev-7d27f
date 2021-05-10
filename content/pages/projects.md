@@ -1,7 +1,7 @@
 ---
 title: Projects
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: projects
 sections: []
 seo:
   title: ''
