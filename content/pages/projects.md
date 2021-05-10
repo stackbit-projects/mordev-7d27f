@@ -5,7 +5,7 @@ excerpt: projects
 sections:
   - title: Projects
     section_id: lorem-ipsum
-    posts_number: 0
+    posts_number: 10
     actions: []
     type: section_posts
 seo:
