@@ -35,13 +35,22 @@ sections:
       ## EKCO - MICROSOFT 365 BACKUP PORTAL
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      While working for Ekco I was tasked with rebuilding the Microsoft 365
+      backup portal from the ground up. 
 
 
-      *   Lorem ipsum
+      The feature uses the Veeam backup for Microsoft 365 REST API to backup
+      Outlook, Onedrive and Sharepoint data to privately hosted backup servers.
+      The initial integration had barebones functionality, but was missing out
+      on most of the powerful features of the Veeam API.
 
-      *   dolor sit amet
+
+      I built a python client for communicating with the Veeam API, Flask views
+      to allow the user to communicate with the Veeam backend and a nice
+      responsive UI using jQuery and bootstrap. 
+
+
+      <https://www.ek.co/services/protect/office-365-backup>
     actions: []
     type: section_content
 seo:
