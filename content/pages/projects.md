@@ -1,6 +1,6 @@
 ---
 title: Projects
-hide_title: true
+hide_title: false
 excerpt: projects
 sections:
   - title: 2021 - side project
