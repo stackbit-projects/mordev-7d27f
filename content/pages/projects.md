@@ -4,7 +4,7 @@ hide_title: true
 excerpt: projects
 sections:
   - title: Projects
-    section_id: lorem-ipsum
+    section_id: projects
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
