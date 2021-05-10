@@ -3,7 +3,7 @@ title: Projects
 hide_title: true
 excerpt: projects
 sections:
-  - title: Projects
+  - title: Specr
     section_id: projects
     image_alt: lorem-ipsum
     content: >-
